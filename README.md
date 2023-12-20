@@ -1,6 +1,7 @@
-# chatbot-vue
+# chatbot
 
-This is a simple chat application using Vue 3, TypeScript, and Tailwind CSS, leveraging the OpenAI `gpt-3.5-turbo` model API for interactive chat conversations. It supports continuous dialogue and uses the Web Speech API for voice input and output, along with a timed reminder feature.
+> This is a simple chat application using Vue 3, TypeScript, and Tailwind CSS, leveraging the OpenAI `gpt-3.5-turbo` model API for interactive chat conversations. It supports continuous dialogue and uses the Web Speech API for voice input and output, along with a timed reminder feature.
+
 + OpenAI GPT-3.5 Turbo for Engaging Conversations: The integration of the OpenAI GPT-3.5 Turbo model enables the chatbot to conduct engaging, empathetic, and contextually relevant conversations, providing companionship and interaction that can be crucial for elderly users.
 + Continuous Dialogue for Natural Interaction: The chatbot supports continuous dialogue, allowing it to maintain conversation context, which is especially comforting for seniors, fostering a feeling of ongoing companionship.
 + Web Speech API for Voice Interaction: Considering the potential challenges elderly users might face with typing, the Web Speech API is employed for voice input and output. This allows users to speak to the chatbot and hear responses, making the interaction more natural and accessible.
